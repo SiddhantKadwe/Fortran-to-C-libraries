@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/siddhant/Fortran/Fortran-to-C-libraries'
+make: Leaving directory '/home/siddhant/Fortran/Fortran-to-C-libraries'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
